@@ -1,7 +1,7 @@
 # Enhancement of Data Security for Cloud Computing with Cryptography Techniques
 
 
-In our methodology, we have used algorithms like AES, 3DES, and Steganography.
+In the methodology, we have used algorithms like AES, 3DES, and Steganography.
 Advanced Encryption Standard (AES) uses a substitution permutation technique,
 AES is made up of a 128-bit block and keys of various sizes, including 128, 192, and
 256 bits. It is made up of a cipher that defines the number of transformation rounds
