@@ -1,7 +1,9 @@
 # Enhancement of Data Security for Cloud Computing with Cryptography Techniques
 
 
--- Kindly check the page 311 for the published paper for this project -- 
+Kindly check the page 311 for the published paper for this project 
+https://github.com/dirun11/Enhancement-of-Data-Security-for-Cloud-Computing-with-Cryptography-Techniques/blob/main/%5BPage%20311%5D%20Enhancement%20of%20Data%20Security%20for%20Cloud%20Computing%20with%20Cryptography%20Techniques.pdf
+
 
 
 In the methodology, we have used algorithms like AES, 3DES, and Steganography.
